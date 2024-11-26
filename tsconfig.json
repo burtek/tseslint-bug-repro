@@ -3,11 +3,7 @@
     "target": "ES2020",
     "lib": ["es2022", "ES2022.SharedMemory"],
     "module": "ESNext",
-    "moduleResolution": "bundler",
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "strict": true,
     "noEmit": true
   },
-  "files": ["index.ts", "eslint.config.js"]
+  "files": ["index.ts"]
 }
